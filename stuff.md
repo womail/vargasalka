@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-initial-scale=1.0">
   <title>stuff</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
@@ -25,4 +25,9 @@ Stuff</p>
   </div>
 </body>
 
-</html>
+</html> [Stackwith
+> [[Markdown Stuff]]
+> 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA5MDc2MzU2MF19
+-->
